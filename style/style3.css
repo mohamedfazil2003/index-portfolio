@@ -1,0 +1,50 @@
+body{
+    background:url("/images/wp4729567.jpg");
+    font-size: 20px;
+}
+
+.number{
+    color: white;
+    background:rgba(255,255,255,.1);
+    padding: 5px 10px 15px;
+    width:350px;
+    margin:250px auto ;
+    border-radius:5px;
+    font-size: 25px;
+}
+
+.head{
+    color: skyblue;
+    text-align: center;
+}
+
+.num input{
+   display:block;
+   width: 100%;
+   padding: 5px;
+   margin: 5px;
+   box-sizing: border-box;
+   border-radius:5px;
+}
+
+.number .radio{
+    padding: 20px;
+
+}
+
+.btn{
+    text-align: center;
+}
+
+button{
+    font-size:25px;
+    border-radius:8px;
+    color:red;
+    background-color:aqua;
+    
+} 
+
+input.focus{
+  background-color: aquamarine;  
+}
+

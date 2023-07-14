@@ -1,0 +1,63 @@
+body{
+    background:url("/images/wp4729567.jpg");
+}
+
+/* .alldiv{
+  width: 300px;
+  background-color:rgba(124, 122, 122, 0.5);
+  padding: 10px 20px 30px;
+  color: white;
+  margin: 150px auto; 
+  border-radius: 5px; */
+
+}
+
+.alldiv .num1{
+    display: block;
+}
+
+/* .num2 input{
+    width: 100%;
+    font-size: 1.5em;
+    border: 1px solid rgba(61, 226, 43, 0.386);
+    border-radius: 4px;
+    padding: 5px 10px;
+    box-sizing: border-box; */
+}
+
+.alldiv .gt{
+    color: rgb(32, 71, 32);
+    text-align: center;
+}
+
+.alldiv .num1{
+    padding: 10px;
+    font-size: 1.2em;
+
+}
+
+.alldiv .btn{
+    text-align: center;
+    font: size :2em ;
+    
+}
+
+button{
+    background-color: rgba(39, 201, 104, 0.134);
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+    font-size: 15px;
+    
+}
+
+input:focus{
+    background-color: rgba(55, 94, 50, 0.307);
+    color: white;
+}
+
+.num1 input{
+    accent-color:rgba(0, 128, 0, 0.221);
+}
+

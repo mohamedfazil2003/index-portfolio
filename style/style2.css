@@ -1,0 +1,20 @@
+body{
+   font: size 20px;
+   background-image: url(/images/wp4729567.jpg);
+   background-repeat:no-repeat repeat;
+   background-position: bottom;
+   text-align: justify;
+}
+.head{
+    background:peachpuff;
+}
+
+.para{
+    background-color: aquamarine;
+
+}
+.para2{
+    background-color:lightcyan;
+
+    
+}
